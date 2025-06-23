@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nitya782
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python and i am computer science student
 - 📫 How to reach me : by email : nsharmacs430@gmail.com
 
 <!---
